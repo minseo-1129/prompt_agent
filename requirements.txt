@@ -4,3 +4,6 @@ langchain-core
 langchain-openai
 langgraph
 python-dotenv
+pandas
+numpy
+openai
